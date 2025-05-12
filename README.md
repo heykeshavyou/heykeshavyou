@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Keshav. I am a Web developer who loves to code and learn new things. I am a quick learner and a team player. I am always ready to take on new challenges and solve them. I am a tech enthusiast and love to explore new technologies. I am a competitive programmer and love to solve problems. I am a web developer and love to create web applications. I am a full-stack developer and love to work on both front-end and back-end. I am a computer science student and love to learn new things.<br>
+My name is <strong>Keshav </strong>. I am a Web developer who loves to code and learn new things. I am a quick learner and a team player. I am always ready to take on new challenges and solve them. I am a tech enthusiast and love to explore new technologies. I am a competitive programmer and love to solve problems. I am a web developer and love to create web applications. I am a full-stack developer and love to work on both front-end and back-end. I am a computer science student and love to learn new things.<br>
 
 
 ## 🌐 Socials:
