@@ -3,7 +3,9 @@ My name is <strong>Keshav </strong>. I am a Web developer who loves to code and 
 
  
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heykeshavyou) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heykeshavyou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshav210305@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heykeshavyou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/heykeshavyou)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshav210305@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-react-ashen-psi.vercel.app/)
 
 # 💻 Tech Stack:
