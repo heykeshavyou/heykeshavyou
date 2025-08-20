@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey, I’m Keshav. I’m a web developer who loves building things on the web and learning something new every day. I enjoy both front-end and back-end work — figuring out how things look and how they work behind the scenes. I’m currently studying computer science, and I spend a lot of my time coding, solving problems, and exploring new tech. I’m always up for a challenge, and I really enjoy working with others, sharing ideas, and building cool stuff together.
-
+[![](https://visitcount.itsvg.in/api?id=heykeshavyou&label=See&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/heykeshavyou)
