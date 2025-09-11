@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<p align="center">Hey, I’m Keshav. I’m a web developer who loves building things on the web and learning something new every day. I enjoy both front-end and back-end work — figuring out how things look and how they work behind the scenes. I’m currently studying computer science, and I spend a lot of my time coding, solving problems, and exploring new tech. I’m always up for a challenge, and I really enjoy working with others, sharing ideas, and building cool stuff together.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=heykeshavyou&label=Profile%20views&color=0e75b6&style=flat" alt="heykeshavyou" /> </p>
 
