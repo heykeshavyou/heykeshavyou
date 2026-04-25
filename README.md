@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=heykeshavyou" alt="heykeshavyou" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently working at Inqmise technologies as intern 
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://portfolio-react-ashen-psi.vercel.app/)
 
